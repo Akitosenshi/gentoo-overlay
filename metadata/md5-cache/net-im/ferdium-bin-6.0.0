@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=All your services in one place, built by the community
+EAPI=8
+HOMEPAGE=https://github.com/ferdium/ferdium-app
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+SLOT=0
+SRC_URI=https://github.com/ferdium/ferdium-app/releases/download/v6.0.0/Ferdium-linux-6.0.0.tar.gz -> ferdium-bin-6.0.0.tar.gz
+_md5_=5c573a5547e0d42614a2abe887d7bda3
